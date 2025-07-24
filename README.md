@@ -50,7 +50,6 @@ Uma enciclopédia visual de animes com foco em organização de conteúdo, respo
 ## 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Vieira-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrew-vieira-24532a1b9/)
-[![Gmail](https://img.shields.io/badge/E-mail-contato-red?style=flat&logo=gmail)](mailto:andrewericlesvsk@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Em%20Breve-orange)](#embreve)
 
 ---
